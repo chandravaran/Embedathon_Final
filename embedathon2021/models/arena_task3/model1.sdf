@@ -7,7 +7,7 @@
       <collision name="colision2">
         <geometry>
           <mesh>
-            <uri>model://arena_task3/meshes/Final_Map2.dae</uri>
+            <uri>model://arena_task3/meshes/Map2_triangulated.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -17,7 +17,7 @@
         <cast_shadows>true</cast_shadows>
         <geometry>
           <mesh>
-            <uri>model://arena_task3/meshes/Final_Map2.dae</uri>
+            <uri>model://arena_task3/meshes/Map2_triangulated.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
